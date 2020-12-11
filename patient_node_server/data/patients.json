@@ -1,0 +1,149 @@
+[
+  {
+    "age": "12",
+    "id": "1123",
+    "name": "Jason Bajwa",
+    "gender": "Female",
+    "contactnumber": "1234567890"
+  },
+  {
+    "age": "35",
+    "id": "2123",
+    "name": "Mridul Sharma",
+    "gender": "Male",
+    "contactnumber": "9888995133"
+  },
+  {
+    "age": "12",
+    "id": "123",
+    "name": "Ravi Katiyar",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "12",
+    "id": "312",
+    "name": "Amy Kishan",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "12",
+    "id": "3",
+    "name": "Lorem Ipsum",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "42",
+    "id": "453",
+    "name": "Dabur Shinchan",
+    "gender": "Female",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "12",
+    "id": "512",
+    "name": "Ankit Chandel",
+    "gender": "Female",
+    "contactnumber": "1234567890"
+  },
+  {
+    "age": "35",
+    "id": "980",
+    "name": "Jama Ismail",
+    "gender": "Male",
+    "contactnumber": "9888995133"
+  },
+  {
+    "age": "12",
+    "id": "219",
+    "name": "Ehsaan Qureshi",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "12",
+    "id": "512",
+    "name": "Ankit Chandel",
+    "gender": "Female",
+    "contactnumber": "1234567890"
+  },
+  {
+    "age": "35",
+    "id": "980",
+    "name": "Jama Ismail",
+    "gender": "Male",
+    "contactnumber": "9888995133"
+  },
+  {
+    "age": "12",
+    "id": "219",
+    "name": "Ehsaan Qureshi",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "12",
+    "id": "512",
+    "name": "Ankit Chandel",
+    "gender": "Female",
+    "contactnumber": "1234567890"
+  },
+  {
+    "age": "35",
+    "id": "980",
+    "name": "Jama Ismail",
+    "gender": "Male",
+    "contactnumber": "9888995133"
+  },
+  {
+    "age": "12",
+    "id": "219",
+    "name": "Ehsaan Qureshi",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "12",
+    "id": "512",
+    "name": "Ankit Chandel",
+    "gender": "Female",
+    "contactnumber": "1234567890"
+  },
+  {
+    "age": "35",
+    "id": "980",
+    "name": "Jama Ismail",
+    "gender": "Male",
+    "contactnumber": "9888995133"
+  },
+  {
+    "age": "12",
+    "id": "219",
+    "name": "Ehsaan Qureshi",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  },
+  {
+    "age": "12",
+    "id": "512",
+    "name": "Ankit Chandel",
+    "gender": "Female",
+    "contactnumber": "1234567890"
+  },
+  {
+    "age": "35",
+    "id": "980",
+    "name": "Jama Ismail",
+    "gender": "Male",
+    "contactnumber": "9888995133"
+  },
+  {
+    "age": "12",
+    "id": "219",
+    "name": "Ehsaan Qureshi",
+    "gender": "Male",
+    "contactnumber": "9878118315"
+  }
+]
